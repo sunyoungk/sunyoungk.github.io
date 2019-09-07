@@ -32,7 +32,7 @@ anything. You wonder where you are and who could have possibly brought you here.
 Enter quit or one of the following commands -
 Weld light look walk pickup inventory help h ?
 <------------------------------------------------>
-
+ 
 look
 The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
  lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
