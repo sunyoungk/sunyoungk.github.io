@@ -8,7 +8,7 @@ date: 2018-11-27
 labels:
   - Java
   
-summary: This is the astrology-inspired project I did for ICS 111.
+summary: This is an astrology-inspired project from ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/astro.jpg">
