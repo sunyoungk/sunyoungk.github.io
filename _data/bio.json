@@ -73,11 +73,24 @@
         "Software Engineering", 
         "Algorithms", 
         "Discrete Mathematics",
-        "Probability and Statistics"
+        "Probability and Statistics",
       ]
     }
   ],
- 
+  "experience": [
+    {
+      "company": "UH Manoa Department of Mathematics",
+      "position": "Undergraduate Research Assistant",
+      "website": "",
+      "startDate": "2019-06-10",
+      "endDate": "2019-08-02",
+      "summary": "Contributed to a project on the lower bound of the automatic complexity of a string. ",
+      "highlights": [
+        "Write code to find lower bound of the automatic complexity of a string",
+        "Prepare a poster presentation for the 2019 Summer Undergraduate Research Experience Symposium"
+      ]
+    },
+  ],
   "awards": [
     {
       "title": "Chancellor's Scholarship",
