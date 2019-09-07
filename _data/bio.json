@@ -70,7 +70,10 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Software Engineering", "Algorithms", "Discrete Mathematics"
+        "Software Engineering", 
+        "Algorithms", 
+        "Discrete Mathematics",
+        "Probability and Statistics"
       ]
     }
   ],
