@@ -69,12 +69,12 @@
       "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
-      "courses": "Software Engineering"[
+      "courses": ["Software Engineering"
       ]
     }
   ],
  
-  "awards": [
+  "awards": 
     {
       "title": "Chancellor's Scholarship",
       "date": "2018-Present",
