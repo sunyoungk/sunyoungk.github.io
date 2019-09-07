@@ -69,7 +69,7 @@
       "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": "Software Engineering"[
       ]
     }
   ],
@@ -79,14 +79,8 @@
       "title": "Chancellor's Scholarship",
       "date": "2018-Present",
       "awarder": "University of of Hawaii",
-      "summary": "This scholarship, now called the Provost Achievement Scholarship, is awarded to incoming freshmen and continuing students who have demonstrated academic achievement and extracurricular involvement at a Hawai'i public school."
+      "summary": "The Chancellor's Scholarship is awarded to incoming freshmen who have demonstrated academic achievement and extracurricular involvement at a Hawai'i public school."
     },
-    {
-      "title": "First place in Financial Services",
-      "date": "2018",
-      "awarder": "Hawaii State DECA",
-      "summary": "My team won first place in 2018.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
