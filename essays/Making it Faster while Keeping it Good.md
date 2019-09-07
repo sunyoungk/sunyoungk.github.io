@@ -10,7 +10,6 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/javascriptEssay.jpg">
 
 ## Is there such thing as a stupid question?
 
