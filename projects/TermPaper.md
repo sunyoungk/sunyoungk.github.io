@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Automata.png
-title: Automatic Complexity
-permalink: projects/automaticComplexity
+title: TermPaper
+permalink: projects/TermPaper
 date: 2018-12-10
 labels:
   - research
