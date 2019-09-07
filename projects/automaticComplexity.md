@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/deca.jpg
+image: images/automata.png
 title: Automatic Complexity
 permalink: projects/automaticComplexity
 date: 2019-06-10
@@ -11,7 +11,7 @@ labels:
 summary: I contributed to a research project on the lower bound of the automatic complexity of a string.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/deca.jpg">
+<img class="ui medium right floated rounded image" src="/images/automata.png">
 
 Introduced in 2001 by Shallit and Wang, the automatic complexity of a word, also called a power, refers the number of instances a particular sequence appears in a given word. A lower bound can be found using savings, which minimizes the value of the power, and can be applied to and represented in the Fibonacci and Tribonacci words, as well as the word  "humuhumunukunukuapua'a."
 
