@@ -10,7 +10,7 @@ labels:
   - Internet
 ---
   
-
+<img class="ui medium left floated image" src="../images/questionComic.jpg">
 
 ## "Java" + "Script" = "JavaScript"?
 
