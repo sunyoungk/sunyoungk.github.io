@@ -2,16 +2,16 @@
 layout: essay
 type: essay
 published: false
-title: Smart Questions, Good Answers
+title: S.M.A.R.T.
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2019-09-12
 labels:
-  - Questions
-  - Answers
+
+  - Internet
   - StackOverflow
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/questionComic.jpg">
 
 ## Is there such thing as a stupid question?
 
