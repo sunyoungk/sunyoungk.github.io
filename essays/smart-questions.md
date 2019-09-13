@@ -2,6 +2,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Making it Faster while Keeping it Good
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
