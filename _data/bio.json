@@ -6,7 +6,7 @@
     "email": "kim276@hawaii.edu",
     "phone": "",
     "website": "https://sunyoungk.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021, and I look forward to doing something within the realm of artificial intelligence",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2021, and I look forward to furthering my knowledge in artificial intelligence.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -82,8 +82,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "UH Manoa Department of Mathematics",
       "studyType": "Undergraduate Research Assistant",
-      "startDate": "2019-06",
-      "endDate": "2019-07",
+      "startDate": "2019-06-10",
+      "endDate": "2019-08-02",
       "gpa": "",
       "courses": [
         "Contributed to a project on the lower bound of the automatic complexity of a string", 
