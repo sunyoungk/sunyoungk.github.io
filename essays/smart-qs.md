@@ -28,4 +28,4 @@ A "smart" question is specific, informative, and clear, as evidenced in the back
 
 <img class="ui medium left floated image" src="../images/img2.png">
 
-The question box even includes information about some things that have been done to correct the issue and and clarification that a reader may find useful. Even with this info, the question isn't long at all! Though this may have to do with the type of question asked, the answers are just as thorough and well-organized as the "smart" question that was asked.
+The question box even includes information about some things that have been done to correct the issue and and clarification that a reader may find useful. There is the possiblity that by doing this, one may come to understand the problem better and resolve it without outside help! Also, even with this info, the question isn't long at all! Though this may have to do with the type of question asked, the answers are just as thorough and well-organized as the "smart" question that was asked.
