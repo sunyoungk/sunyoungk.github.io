@@ -6,47 +6,22 @@ title: The difficult things will always be difficult
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 labels:
-  - Engineering
+  - StackOverflow
+  - Software Engineering
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Throughout elementary, middle, and high school, I've had it regurgitated to me that, when we set goals, we should make them S.M.A.R.T., or specific, measurable, attainable, relevant, and timely. These adjectives can also apply to what makes a "question" a "smart question."
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Fortunately, in this day and age, software engineers can be "smart" and utilize the Web to quickly get quality responses and solutions to their questions and problems. One of the most common ways to do this is by using Stack Overflow, the computer science branch of Stack Exchange, a question and answer/forum site. The number of questions Stack Overflow hosts goes into the thousands; you wouldn't want your question to get lost! Identifying the specific issue at hand and providing adequate information will increase the chances of getting an answer to your question.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Everything Given Nothing
 
-Here's what I think: the difficult things will always be difficult.
+One good example of a "not-smart" question is the one in the screenshot below. Although the question asker has provided the code and the output, the inquirer provides no insight into where there might be an issue, and just asks "What's wrong with my code?" The program is to return perfect numbers between one and 1000, and someone suggests providing the definition of a perfect number, which is taken. However, "What is wrong with my code?" could range from something as trivial as a missing semi-colon to an incorrectly written method. Not using camel case could even be considered.
 
-## In the context of programming
+Fortunately for the question asker, two others reply with the same solution that do indeed fix the code. I suppose that because the code being on the less complicated side and well formatted has helped garner responses, but if this were not the case, people may not be as quick or willing to figure out what the code is supposed to do, compared to what it is doing. The code in the screen shot is not commented, and this would make it harder and more time-consuming to resolve the issue.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## The Other Way Around 
+A "smart" question is specific, informative, and clear, as evidenced in the backslashes inquiry below. The question box even includes information about some things that have been done to correct the issue and and clarification that a reader may find useful. Answers to this question also take several approaches! Though this may have to do with the type of question asked, the answers are just as thorough and well-organized as the "smart" question that was asked.
