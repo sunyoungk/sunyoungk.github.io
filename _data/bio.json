@@ -6,7 +6,7 @@
     "email": "kim276@hawaii.edu",
     "phone": "",
     "website": "https://sunyoungk.github.io",
-    "summary": "I expect to complete a B.S. in Computer Science at the University of Hawaii in Spring 2021, and I hope to expand my knowledge in artificial intelligence.",
+    "summary": "I am striving to complete a B.S. in Computer Science at the University of Hawaii by Spring 2021. My ideal future plans involve a combination of my interests listed below.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "natural language processing",
+      "name": "Natural Language Processing",
       "keywords": [
       ]
     }
