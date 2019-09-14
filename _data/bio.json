@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
       "name": "Natural Language Processing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
