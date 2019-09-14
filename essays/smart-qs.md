@@ -2,15 +2,13 @@
 layout: essay
 type: essay
 published: true 
-title: The difficult things will always be difficult
+title: Smart as an Acronym
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
   - StackOverflow
   - Software Engineering
 ---
-
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 Throughout elementary, middle, and high school, I've had it regurgitated to me that, when we set goals, we should make them S.M.A.R.T., or specific, measurable, attainable, relevant, and timely. These adjectives can also apply to what makes a "question" a "smart question."
 
