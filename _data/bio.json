@@ -29,11 +29,6 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Machine Learning",
       "keywords": [
       ]
@@ -43,6 +38,11 @@
       "keywords": [
       ]
     }
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
