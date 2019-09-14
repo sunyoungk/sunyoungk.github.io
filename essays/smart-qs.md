@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-published: true
+published: true 
 title: The difficult things will always be difficult
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2019-09-12
 labels:
   - StackOverflow
   - Software Engineering
