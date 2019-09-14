@@ -18,7 +18,7 @@ Fortunately, in this day and age, software engineers can be "smart" and utilize 
 
 One good example of a "not-smart" question is the one in the screenshot below. Although the question asker has provided the code and the output, the inquirer provides no insight into where there might be an issue, and just asks "What's wrong with my code?" The program is to return perfect numbers between one and 1000, and someone suggests providing the definition of a perfect number, which is taken. However, "What is wrong with my code?" could range from something as trivial as a missing semi-colon to an incorrectly written method. Not using camel case could even be considered.
 
-<img class="ui medium center floated image" src="../images/img1.png">
+<img class="ui medium middle floated image" src="../images/img1.png">
 
 Fortunately for the question asker, two others reply with the same solution that do indeed fix the code. I suppose that because the code being on the less complicated side and well formatted has helped garner responses, but if this were not the case, people may not be as quick or willing to figure out what the code is supposed to do, compared to what it is doing. The code in the screen shot is not commented, and this would make it harder and more time-consuming to resolve the issue.
 
