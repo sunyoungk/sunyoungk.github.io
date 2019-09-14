@@ -22,4 +22,4 @@ Fortunately for the question asker, two others reply with the same solution that
 
 
 ## The Other Way Around 
-A "smart" question is specific, informative, and clear, as evidenced in the backslashes inquiry below. The question box even includes information about some things that have been done to correct the issue and and clarification that a reader may find useful. Answers to this question also take several approaches! Though this may have to do with the type of question asked, the answers are just as thorough and well-organized as the "smart" question that was asked.
+A "smart" question is specific, informative, and clear, as evidenced in the backslashes inquiry below. The question box even includes information about some things that have been done to correct the issue and and clarification that a reader may find useful. Even with this info, the question isn't long at all! Though this may have to do with the type of question asked, the answers are just as thorough and well-organized as the "smart" question that was asked.
