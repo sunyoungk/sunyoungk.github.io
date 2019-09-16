@@ -17,7 +17,7 @@ The final project for ICS 111 gave students a lot of freedom to do whatever our 
 
 The code is mostly if-statements, with each condition being the range of dates for one of the twelve signs, and running it returns and records the date-specifc sign. Though not intentional, the program was coded as a case sensitive one, in that months must be capitalized for a sign to be returned. This served as a reminder to keep aware of the specifications and capabilities of programming languages.
 
-See a video demonstration of the code [here] (https://www.youtube.com/watch?v=JBccfS5yKjw).
+Here is the link to view the [video demonstration] (https://www.youtube.com/watch?v=JBccfS5yKjw) of the code.
 
 
 
