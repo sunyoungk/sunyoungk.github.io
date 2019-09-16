@@ -14,7 +14,7 @@ summary: I contributed to a research project on the lower bound of the automatic
 
 <img class="ui medium right floated rounded image" src="/images/Automata.png">
 
-Over this summer, I worked with Professor Kjos-Hanssen and a group of other students on automatic complexity research. Our aim was to find the lower bound of a string by finding patterns within it and tracking the number of repetitions. To model this, we used finite automata and programming to determine the number of states for each string can have, as well as to determine the number of repetitions within it. 
+Over summer of 2019, I worked with Professor Kjos-Hanssen and a group of other students on automatic complexity research. Our aim was to find the lower bound of a string by finding patterns within it and tracking the number of repetitions. To model this, we used finite automata and programming to determine the number of states for each string can have, as well as to determine the number of repetitions within it. 
 
 One application of this is regular expressions/regex, which is used in language techology as text replacement/searches, amongst other things. It also applies to the widely known Fibonacci words, as well as the lesser known Tribonacci words, and can also demonstrate reduplication. 
 
