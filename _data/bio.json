@@ -60,6 +60,7 @@
         "MacOS",
         "Git/GitHub",
         "Windows/WindowsOS",
+        "Eclipse",
       ]
     }
   ],
@@ -106,7 +107,7 @@
       "title": "UH Manoa Summer Freshman Merit Scholarship",
       "date": "2019",
       "awarder": "University of of Hawaii Outreach College",
-      "summary": "This scholarship is awarded to continuing freshmen who have demonstrated academic achievement."
+      "summary": "This scholarship is awarded to continuing freshmen who have demonstrated academic achievement in their undergraduate coursework."
     },
   ],
   "references": [
