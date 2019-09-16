@@ -6,8 +6,8 @@ title: Automatic Complexity
 permalink: projects/automatic-complexity
 date: 2019-06-10
 labels:
-  - Teamwork
   - Research
+  - Teamwork
   
 summary: I contributed to a research project on the lower bound of the automatic complexity of a string.
 ---
