@@ -20,5 +20,5 @@ We used finite automata and programming to determine the number of states for ea
 
 At the end of the summer, the other students and I presented our work at the Summer Undergraduate Research Symposium. The link to the slides is below. 
 
-View the presentation from the Symposium [here] (https://www.overleaf.com/read/rbdfttrwcfxw).
+Here is the [presentation](https://www.overleaf.com/read/rbdfttrwcfxw) from the Symposium.
  
