@@ -22,4 +22,3 @@ One application of this is regular expressions/regex, which is used in language 
 This project was done in a group, and it involved discussions to ensure that we understood the principles and theories, as well as how we were going to utilize and apply them to the research question throughout the research process. At the end of the summer, the other students and I presented our work at the Summer Undergraduate Research Symposium. The link to the slides is below. 
 
 Here is the [presentation](https://www.overleaf.com/read/rbdfttrwcfxw) from the Symposium.
- 
