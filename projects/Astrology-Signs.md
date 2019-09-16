@@ -20,3 +20,4 @@ This type of project was a suggestion I recalled from my high school computer pr
 The code is mostly if-statements, with each condition being the range of dates for one of the twelve signs, and running it returns and records the date-specifc sign. Though not intentional, the program was coded as a case sensitive one, in that months must be capitalized for a sign to be returned. This served as a reminder to keep aware of the specifications and capabilities of programming languages.
 
 The YouTube video demonstrating the code is [here](https://www.youtube.com/watch?v=JBccfS5yKjw).
+ 
