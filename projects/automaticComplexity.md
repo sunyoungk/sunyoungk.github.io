@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/Automata.png
-title: Automatic Complexity
+title: Automatic Complexity 
 permalink: projects/automaticComplexity
 date: 2019-06-10
 labels:
