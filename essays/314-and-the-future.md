@@ -7,8 +7,7 @@ title: Because of a Book
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-18
 labels:
-  - JavaScript
-  - Learning
+  - Future Plans
   - Software Engineering
 ---
 
