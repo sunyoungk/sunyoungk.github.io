@@ -17,7 +17,7 @@ In addition to the typical high school electives such as art and foreign languag
 
 After a bit of Googling, I found out that there were business versions of HOSA and FFA, notably DECA (formerly Distributive Education Clubs of America) and FBLA (Future Business Leaders of America), both of which allowed students to partake in real-world simulated competitions. I approached a friend of mine who was also interested business to start DECA (FBLA doesn't have a Hawaii presence) with me, and we ended up spearheading many of the club's events.  
 
-Through doing mock role-plays, selling various items for fundraisers, and learning about various areas in business from marketing communications to financial services (which my friend and I ended up going to Nationals for after placing first in our final year!), we improved our public speaking, persuasion, and collaboration skills. 
+Through doing mock role-plays, selling various items for fundraisers, and learning about various areas in business from marketing communications to financial services (which my friend and I ended up placing first in our final year!), we improved our public speaking, persuasion, and collaboration skills. 
 
 See what Kalani DECA is up to now on their [Instagram page](https://www.instagram.com/kalani_deca)!
 
