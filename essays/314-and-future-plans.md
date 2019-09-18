@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Because of a Book
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-18
