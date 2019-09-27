@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 published: true
-title: Because of a Book
+title: The Gold Standard for Golden Code
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-18
+date: 2019-09-26
 labels:
   - Future Plans
   - Software Engineering
@@ -13,11 +13,12 @@ labels:
 
 <img class="ui medium left floated image" src="../images/whyCS.jpg">
 
-The main reason I decided to study computer science comes from an unconventional idea from book I read when I was fifteen. This book, Cal Newport's *So Good They Can't Ignore You*, is built on the notion that passion is not "found" but cultivated over time, challenging the more commonly heard "follow your passion."
+I think there is a reason "programming" is interchangeable with "writing code". The processes of writing code in formal languages and writing text in human languages are actually quite a lot alike. At the surface level, both involve typing, and share a lot of the same terminology such as syntax and grammars. However, more importantly, programming and writing in natural language both entail continuous revising and improving, much of which is governed by conventions or standards.  
 
-I was taken aback by this at first, but as someone who has never had a dream job, I found myself wanting to agree with the idea and gradually came to realize how true it was in regards to my own life. 
+## Breaking Away from the First Language
 
-## A Logical Approach to Music
+
+The first language I learned to program in was Java, but the first language that I learned was Korean. Although over thirteen years have passed since I came to the US and learned English, I still feel that much of the syntax I use is the same one used in Korean. I don't notice it too much when I'm talking, but I often find myself restructuring my sentences when I write, and I also tend to gravitate to Java syntax when writing code in ICS 314. JavaScript is the programming language we've been using in ICS 314 so far. It is similar to Java, but it's not the same.  
 
 When I was seven, my parents enrolled me in piano lessons. I had wanted to learn how to play piano, and have asked about lessons, but even if I didn't want to, I probably would've had to take them anyway. Although I don't have much of an explanation for *why* I wanted to learn to play piano, I somehow figured out how to play Twinkle, Twinkle Little Star before I took lessons. I don't have an explanation for how I "learned" to do that either, other than I sat at the piano and played keys in a certain order until it matched the tune. 
 
