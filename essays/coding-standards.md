@@ -6,12 +6,13 @@ title: Going for the Gold Code
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-26
 labels:
-  - Future Plans
+  - Coding Standards
   - Software Engineering
+  - JavaScript
 ---
 
 
-<img class="ui medium left floated image" src="../images/whyCS.jpg">
+<img class="ui medium left floated image" src="../images/standards.png">
 
 I think there is a reason "programming" is interchangeable with "writing code". The processes of writing code in programming languages and writing text in human languages are actually quite a lot alike. At the surface level, both involve typing, and share a lot of the same terminology such as syntax and grammars. However, and more importantly, programming and writing in natural language both entail continuous revising and improving, much of which is governed by conventions or standards.  
 
