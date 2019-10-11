@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Let the Framework Do the Work
+title: Leave It to the Framework
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
