@@ -14,7 +14,7 @@ labels:
 
 "Computer scientists are only second in laziness to mathematicians."
  
-This from a conversation I had with a classmate in ICS 211. I asked him he how finishes most assignments quite quickly, and he told me that he had code from high school to go off of, as well as that computer science people just reuse their code (unless it is necessary to write new code), while mathematicians create new math if things don't fit. 
+This from a conversation I had with a classmate in ICS 211. I asked him he how finishes most assignments quite quickly, and he told me that he had code from high school to go off of, as well as that computer science people just reuse their code (unless it is necessary to write new code), while mathematicians create new math if things don't fit the math that already exists. 
 
 
 
