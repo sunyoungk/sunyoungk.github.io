@@ -18,6 +18,7 @@ This from a conversation I had with a classmate in ICS 211. I asked him he how f
 
 
 
+
 ## More Work is Inevitable
 As a lazy computer science major who would be studying math if she weren't doing CS, I have done the same in looking back at previous materials for a class, hoping to do less work for the assignment I was currently working on. But, I have also done more work while trying to do less work. In my Computational Modeling class, an assignment instructed me to decrpyt a message. We had done this by hand in class by counting the number of occurrences of each letter (for all 26 letters) in the text. Although this wasn't as tedious nor as time consuming as I anticipated, it was rather boring and none of anyone's counts were completely accurate. Not wanting to do this again, I decided that I was going to write a program to do it for me. I spent a few hours writing 26 if-statements... and I could *literally* not crack the code. It turned out to be that instead of replacing letters according to how often they appear, I was supposed to have replaced each letter with one that is seven letters behind it. 
 
