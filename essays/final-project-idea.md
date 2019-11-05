@@ -35,3 +35,5 @@ Upon logging in, user is taken to User home, where user-specific events are list
 
 This application could sync with social media apps so that users can see what events their friends may be attending. 
 It could also include whether e.g. prior registration/ticket purchase is required.
+
+by Sahra Sousa Moseby, Sun Young Kim
