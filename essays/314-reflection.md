@@ -6,8 +6,9 @@ title: Engineering Software, Engineering Soft Skills
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
-  - Future Plans
+  - Learning
   - Software Engineering
+  - Reflections
 ---
 
 
