@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Going for the Gold Code
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-26
