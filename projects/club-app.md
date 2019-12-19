@@ -14,11 +14,11 @@ summary: A Meteor application for exploring and finding clubs of interest at UH 
 
 <img class="ui medium right floated rounded image" src="/images/mch.png">
 
-The final project for ICS 111 gave students a lot of freedom to do whatever our minds pleased, as long as it used EZ and two of the concepts taught in class. A classmate and I used file writing and reading to take in and record names, birthdates, and western astrological signs. 
+ICS 314 Software Engineering I culminates in a group project where students work together to build a web application using Meteor, React, JavaScript and the other tools and technologies taught in the class. My group named our app Manoa Club Hunt, and as its name applies, its intended purpose is to streamline the process of finding and hopefully partaking in clubs for UH Manoa students. 
 
-This type of project was a suggestion I recalled from my high school computer programming class; many people have trouble keeping track of others' birthdays and astrological signs may be find useful to know for trivia purposes, but people seem to only know their own signs. 
+My project contributions had to do with the club-related pages, the club profile with the club information and the edit club page that the admin and club officers can access. This involved being mindful about what may make sense for the users and the functionalities that they might need.
 
-The code is mostly if-statements, with each condition being the range of dates for one of the twelve signs, and running it returns and records the date-specifc sign. Though not intentional, the program was coded as a case sensitive one, in that months must be capitalized for a sign to be returned. This served as a reminder to keep aware of the specifications and capabilities of programming languages.
+Working on this project was not only a test of understanding, connecting and applying the all ICS 314 materials and concepts, but in collaborating with others. Though people generally focused on certain parts of the project, sometimes getting one's part of the project to function involved making changes to someone else's part and comprehending their code. 
 
-The YouTube video demonstrating the code is [here](https://www.youtube.com/watch?v=JBccfS5yKjw).
+Click [here](https://manoa-club-hunt.github.io) to access the GitHub organization page.
  
