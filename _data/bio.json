@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Natural Language Processing",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "IT",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Science",
       "keywords": [
       ]
     }
@@ -72,7 +72,7 @@
       "area": "Computer Science (expected Spring 2021)",
       "studyType": "B.S.",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "2021",
       "gpa": "",
       "courses": [
         "Discrete Mathematics, Spring 2019",
@@ -101,7 +101,7 @@
   "awards": [
     {
       "title": "Chancellor's Scholarship",
-      "date": "2018-Present",
+      "date": "2018-2021",
       "awarder": "University of of Hawaii at Manoa",
       "summary": "The Chancellor's Scholarship (now called the Provost Achievement Scholarship) is awarded to incoming freshmen who have demonstrated academic achievement and extracurricular involvement at a Hawai'i high school."
     },
