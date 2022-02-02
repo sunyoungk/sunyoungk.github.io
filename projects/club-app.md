@@ -4,7 +4,7 @@ type: project
 image: images/mch.png
 title: Manoa Club Hunt
 permalink: projects/manoa-club-app
-date: 2018-11-27
+date: 2019-11-27
 labels:
   - Software Engineering
   - Teamwork
