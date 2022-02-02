@@ -6,7 +6,7 @@
     "email": "kim276@hawaii.edu",
     "phone": "",
     "website": "https://sunyoungk.github.io",
-    "summary": "I am striving to complete a B.S. in Computer Science at the University of Hawaii by Spring 2021. After graduation, I hope to pursue one (or a combination) of my interests listed below.",
+    "summary": "I am a recent graduate of the University of Hawaii at Manoa, where I majored in Computer Science. 
     "location": {
       "address": "",
       "postalCode": "",
@@ -75,11 +75,8 @@
       "endDate": "2021",
       "gpa": "",
       "courses": [
-        "Discrete Mathematics, Spring 2019",
-        "Probability and Statistics, Summer 2019",
-        "Software Engineering, Fall 2019", 
         "Algorithms, Fall 2019", 
-        "Computational Modeling in Linguistics, Fall 2019",
+        "Software Engineering, Fall 2019",
       ]
     }
  
