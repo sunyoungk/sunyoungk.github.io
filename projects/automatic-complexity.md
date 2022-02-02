@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: false
 image: images/Automata.png
 title: Automatic Complexity 
 permalink: projects/automatic-complexity
