@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/deca.jpg
 title: Kalani DECA
 permalink: projects/kalanideca
